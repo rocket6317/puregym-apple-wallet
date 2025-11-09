@@ -20,7 +20,7 @@ Easily add your PureGym QR code to Apple Wallet for quick gym access.
 - Optionally, add your **PIN code** in the **Back Side Notes** section.
 
 ---
-## Updating the Wallet pass
+## 🔄 Updating Your Pass
 Codes are valid for limited time so you will need to update the code when it stops working. 
 
 - Just take another screenshot, copy the QR code.
